@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+faiss-cpu
+langchain_openai
+langchain-text-splitters
+langchain-core
+langchain-community
+langchain-pinecone
+pinecone
+python-dotenv
